@@ -33,7 +33,4 @@ I take a rigorous, first-principles approach to everything I work on, always aim
 
 Outside of technical work, I have a strong interest in writing, linguistics, and history, particularly how technology shapes societies over time. I'm always learning, whether it's refining my writing skills, improving my coding efficiency, or mastering a new field that piques my curiosity.
 
-
-
-
 ---
