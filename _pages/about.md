@@ -9,15 +9,13 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Athens, Georgia 3060</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,8 +25,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an engineer, physicist, and problem solver with a background in electrical and systems engineering, physics, and applied mathematics. I enjoy tackling complex problems across multiple domains, whether it's designing hardware, modeling physical systems, or optimizing software solutions. My interests span embedded systems, automation, computational physics, and R&D for next-generation technologies.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Beyond engineering, I have a deep appreciation for quantitative finance, statistics, and economics, always looking for ways to apply analytical thinking outside of traditional STEM fields. I also have experience with CAD, machining, and hands-on manufacturing, balancing theoretical knowledge with practical implementation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I take a rigorous, first-principles approach to everything I work on, always aiming for efficiency, scalability, and long-term impact. Currently, I'm exploring opportunities in engineering R&D, embedded systems, and computational modeling, while also building projects that merge engineering, physics, and software.
+
+Outside of technical work, I have a strong interest in writing, linguistics, and history, particularly how technology shapes societies over time. I'm always learning, whether it's refining my writing skills, improving my coding efficiency, or mastering a new field that piques my curiosity.
+
+
+
+
+---
