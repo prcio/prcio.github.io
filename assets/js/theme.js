@@ -209,9 +209,13 @@ let transTheme = () => {
 // "system". Default is "system".
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
+
+  // If there is no stored theme, default to dark mode
+  if (!themeSetting) {
+    themeSetting = "dark";
+    localStorage.setItem("theme", "dark"); // 🔹 Save dark mode as default for future visits
   }
+
   return themeSetting;
 };
 
