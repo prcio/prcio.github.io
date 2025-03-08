@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title:  # the website title (if blank, full name will be used instead)
 first_name: Dennis
 middle_name: A.
 last_name: Garcia
@@ -44,7 +44,7 @@ repo_trophies:
 rss_icon: false
 
 # -----------------------------------------------------------------------------
-# Layout
+# Layou t
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
