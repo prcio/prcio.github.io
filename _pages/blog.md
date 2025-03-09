@@ -3,10 +3,9 @@ layout: default
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 5
 pagination:
   enabled: true
-  collection: posts
   permalink: /page/:num/
   per_page: 5
   sort_field: date
