@@ -234,13 +234,43 @@
       "reference": "Computer Science professor at UNG. Lead the image processing and transformation project."
     }
   ],
+
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Rocket Trajectory Simulation & CFD Analysis",
+      "summary": "Developed a 3D simulation incorporating aerodynamic modeling, RK45 integration, and numerical methods for trajectory prediction. Improved visualization and animation by transitioning from MATLAB to Python.",
+      "highlights": [
+        "Implemented aerodynamic modeling and RK45 numerical integration.",
+        "Developed 3D transformations for realistic trajectory visualization.",
+        "Enhanced simulation animations using MANIM and Python."
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Image Manipulation CS Project",
+      "summary": "Developed algorithms for image processing using homographic transformations in collaboration with Dr. Jianjun Yang. Implemented color matrix parsing and automated feature detection for enhanced image analysis.",
+      "highlights": [
+        "Designed algorithms for image transformations using homographic techniques.",
+        "Utilized libraries for automated color matrix parsing and feature detection.",
+        "Refactored code across multiple languages for optimization."
+      ],
+      "startDate": "2024-06-01",
+      "endDate": "2024-12-01",
+      "url": "https://example.com"
+    },
+    {
+      "name": "Garcia Mechanical",
+      "summary": "Founded a machining shop focused on manufacturing aluminum hardware and providing electrical and software solutions. Revamped control systems using EE/ME principles and delivered pro-bono signage for municipal departments.",
+      "highlights": [
+        "Established a machining shop with a gantry mill and restored lathe.",
+        "Designed and machined aluminum hardware for local businesses.",
+        "Implemented electrical and mechanical control system upgrades.",
+        "Provided pro-bono signage for municipal departments."
+      ],
+      "startDate": "2024-01-01",
+      "endDate": "Present",
       "url": "https://example.com"
     }
   ]
