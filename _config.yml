@@ -7,7 +7,7 @@ first_name: Dennis
 middle_name: A.
 last_name: Garcia
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Ways to get in touch.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   My only fixed address on the internet. A showcase for some thoughts, projects, and other stuff I do.
 #footer_text: >
