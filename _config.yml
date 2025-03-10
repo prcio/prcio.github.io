@@ -9,7 +9,7 @@ last_name: Garcia
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My only address on the internet. A showcase for some thoughts, projects, and other stuff I do.
+  My only fixed address on the internet. A showcase for some thoughts, projects, and other stuff I do.
 #footer_text: >
 #  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 #  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Garcia]
+  first_name: [Dennis, A.]
 
   style: apa
   locale: en
