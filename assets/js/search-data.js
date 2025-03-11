@@ -37,8 +37,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "dropdown-repositories",
-              title: "Repositories",
+        },{id: "dropdown-code",
+              title: "Code",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -386,11 +386,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-3d-modeling-of-rocket-trajectories-into-leo",
-          title: '3D Modeling of Rocket Trajectories into LEO',
-          description: "An exercise in numerical simulations, modeling from first principles, and fighting with plotting libraries.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
@@ -401,6 +396,11 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-3d-modeling-of-rocket-trajectories-into-leo",
+          title: '3D Modeling of Rocket Trajectories into LEO',
+          description: "An exercise in numerical simulations, modeling from first principles, and fighting with plotting libraries.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3d_rocket_trajectories/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
