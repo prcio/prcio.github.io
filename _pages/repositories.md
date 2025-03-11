@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Some repos for the projects I've worked on
+title: Code
+description: Some code for the projects I've worked on
 nav: false
 ---
 

@@ -2,22 +2,15 @@
 layout: page
 title: 3D Modeling of Rocket Trajectories into LEO
 description: An exercise in numerical simulations, modeling from first principles, and fighting with plotting libraries.
-img: assets/img/12.jpg
+img: assets/img/rocket_traj.gif
 importance: 1
 category: Modeling & Software
 related_publications: true
 ---
 
-Hands-on experience is the best way to learn
+## Idea
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I had just finished my intro physics sequence, and was partway through my Differential Equations class when I approached my DiffEQ professor asking if he would guide me through this project as an introduction to applied mathematics.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
