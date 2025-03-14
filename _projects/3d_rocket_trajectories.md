@@ -10,8 +10,11 @@ related_publications: true
 
 This was my first real experience with applied physics outside of my coursework, and a valuable lesson in solving real(ish) world physics and engineering problems with math.
 
+
+## Introduction
 This project explores developing a mathematical model to simulate a **rocket launch in 3D space**. What initially began as simple 2D plot with altitude and a simplistic **quadratic drag** equation--was eventually carried to three-dimensional space.
 
+Simulations like these serve as a foundation 
 ## First Principles
 
 At launch, a rocket's ballistic trajectory is affected by a multitude of forces and launch parameters. Using Newton's second law:
@@ -20,7 +23,9 @@ $$
 F = m \frac{d\mathbf{v}}{dt} = \mathbf{G} + \mathbf{T} + \mathbf{D}
 $$
 
-**Drag**
+**Gravity**
+The equation for gravity is given by:
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
