@@ -14,7 +14,8 @@ This was my first real experience with applied physics outside of my coursework,
 ## Introduction
 This project explores developing a mathematical model to simulate a **rocket launch in 3D space**. What initially began as simple 2D plot with altitude and a simplistic **quadratic drag** equation--was eventually carried to three-dimensional space.
 
-Simulations like these serve as a foundation 
+Simulations like these serve as a foundation the real world trajectory analyses used by aerospace and astronautical organizations to plan real-world launches. While this is still a massive simplification of models like those, 
+
 ## First Principles
 
 At launch, a rocket's ballistic trajectory is affected by a multitude of forces and launch parameters. Using Newton's second law:
