@@ -381,11 +381,26 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "books-the-godfather",
+    },{id: "books-blood-meridian",
+          title: 'Blood Meridian',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/blood_meridian/";
+            },},{id: "books-on-the-road",
+          title: 'On the Road',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/on_the_road/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-the-trading-game-a-confession",
+          title: 'The Trading Game: A Confession',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_trading_game/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
